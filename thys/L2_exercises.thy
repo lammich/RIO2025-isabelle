@@ -60,6 +60,7 @@ begin
   lemma numdec_pos: "numdec n \<noteq> 0"  
     
     
+  
               
 
   (* Show that your function is precise: one less digit wouldn't be sufficient. (Except for 0).
